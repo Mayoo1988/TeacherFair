@@ -9,6 +9,7 @@ namespace TeacherApp.core
    public interface IProductRepository
     {
         void AddProduct();
-
+      
+       void UpdateData();
     }
 }
