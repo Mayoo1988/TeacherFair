@@ -10,5 +10,7 @@ namespace TeacherApp.core
     {
         void AddProduct();
 
+        void Updateproducts();
+
     }
 }

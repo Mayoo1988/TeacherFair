@@ -18,9 +18,10 @@ namespace TeacherApp.Infrastructure
             context.AddNewEmployee(new Product
             {
                 id = 3,
-                Name = "Mobile",
+                Name = "NAchiket",
                 Instock = true,
-                Price = 30
+                Price = 30,
+                
             });
         }
 
