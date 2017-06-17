@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace TeacherApp.core
 {
-   public interface IProductRepository
+    public interface IProductRepository
     {
         void AddProduct();
 
         void Updateproducts();
 
-      
-       void UpdateData();
+
+        void UpdateData();
+
+        void Display();
     }
 }
