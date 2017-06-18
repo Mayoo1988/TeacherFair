@@ -16,5 +16,6 @@ namespace TeacherApp.core
         void UpdateData();
 
         void Display();
+        void Print();
     }
 }
