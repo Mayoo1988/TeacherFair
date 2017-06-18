@@ -25,6 +25,19 @@ namespace TeacherApp.Infrastructure
             });
         }
 
-      
+        public void Display()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void UpdateData()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Updateproducts()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
